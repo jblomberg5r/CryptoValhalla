@@ -1,0 +1,1 @@
+{"routers":{"openai":{"name":"openai","version":"2025-06-01T15:24:08","disableAuth":false},"coin_gecko_api":{"name":"coin_gecko_api","version":"2025-06-01T19:54:05","disableAuth":false},"historical_data":{"name":"historical_data","version":"2025-06-01T18:55:20","disableAuth":false}}}

@@ -1,0 +1,6 @@
+{
+    "workbench.editor.autoLockGroups": {
+        "zipViewer.ZipEdit": true,
+        "zipViewer.GZipEdit": true
+    }
+}
